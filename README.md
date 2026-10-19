@@ -1,4 +1,4 @@
-# CareFlow — AI-Powered Hospital Management System (Multi-Doctor Login)
+The AI-Powered Hospital Management System is a smart healthcare application designed to simplify hospital operations and improve patient management using Python and Artificial Intelligence. The system provides a centralized platform for managing patient registration, doctor information, appointment scheduling, medical records, billing, medicines, and reports.# CareFlow — AI-Powered Hospital Management System (Multi-Doctor Login)
 
 Beginner-friendly educational Flask project for Windows + VS Code. Includes a responsive dashboard, doctor directory, patient records, appointments, billing records, a rule-based symptom information demo, and Excel export.
 
